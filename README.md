@@ -1,1 +1,1 @@
-# -Interactive-Product-Page
+# Interactive-Product-Page
